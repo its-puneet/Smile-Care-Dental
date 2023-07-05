@@ -371,11 +371,26 @@ section{
 
    .header .link-btn{
       display: none;
+      
    }
-
+   .button1{
+      margin-right: 0px;
+      margin-left: 31px;
+   }
+   .button2{
+      margin-left: 0;
+      margin-right: 30px;
+   }
    section{
       padding:5rem 2rem;
    }
+   .appointment{
+   
+      margin-left: 30%;
+     margin-bottom: 20px;
+     margin-top: 10px;
+  
+  }
 
 }
 
@@ -423,7 +438,13 @@ section{
    .home .content{
       width: auto;
    }
-
+   .appointment{
+   
+      margin-left: 30%;
+     margin-bottom: 20px;
+     margin-top: 10px;
+  
+  }
 }
 
 @media (max-width:450px){
@@ -439,11 +460,19 @@ section{
    .heading{
       font-size: 3rem;
    }
-
+   .appointment{
+   
+      margin-left: 30%;
+     margin-bottom: 20px;
+     margin-top: 10px;
+  
+  }
 }
 
 .appointment{
-   margin-left: 30px;
-   margin-right: 30px;
+   
+   margin-left: 30%;
+  margin-bottom: 20px;
+  margin-top: 10px;
 
 }
